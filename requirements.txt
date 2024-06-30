@@ -1,3 +1,4 @@
+pip install --upgrade pip
 absl-py==2.1.0
 altair==5.3.0
 asttokens==2.4.1
@@ -83,7 +84,7 @@ pyproject-toml==0.0.10
 python-dateutil==2.9.0.post0
 pyttsx3==2.90
 pytz==2024.1
-pywin32==306
+
 pyzmq==26.0.3
 referencing==0.35.1
 requests==2.32.3
